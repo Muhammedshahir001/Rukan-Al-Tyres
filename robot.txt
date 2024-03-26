@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://alrayantyres.com/sitemap.xml

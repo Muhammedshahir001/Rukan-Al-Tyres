@@ -1,0 +1,6 @@
+
+ErrorDocument 404 https://alrayantyres.com//404.html
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.alrayantyres.com/$1 [R,L]
