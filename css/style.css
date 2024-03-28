@@ -3707,7 +3707,7 @@ img {
   overflow: hidden;
   border: #000 solid 1px;
   font-family: 'Montserrat', sans-serif;
-  margin-bottom: 1.5rem; /* Adjusted for better spacing */
+  margin-bottom: 1.5rem; 
 }
 
 .product_contact {
@@ -3726,7 +3726,7 @@ img {
   letter-spacing: 1px;
   text-transform: capitalize;
   margin: 0px;
-  padding: 1rem; /* Added padding for better readability */
+  padding: 1rem;
 }
 
 .card_text {
@@ -3735,7 +3735,7 @@ img {
   line-height: 1.5;
   margin-bottom: 1.25rem;    
   font-weight: 400;
-  padding: 0 1rem; /* Added padding for better readability */
+  padding: 0 1rem; 
 }
 
 .made_by {
